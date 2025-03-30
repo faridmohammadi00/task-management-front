@@ -173,7 +173,7 @@ MIT License - see LICENSE.md for details
 
 ## Contact
 
-Your Name - ssky3530@gmail.com
+Farid Mohammadi - ssky3530@gmail.com
 Project Link: https://github.com/faridmohammadi00/task-management-front
 ```
 
